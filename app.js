@@ -31,23 +31,23 @@ function calculator() {
 
 }
 
-function output(a, b, op) {
-    if (op == "+") {
-        return (a + b)
+// function output(a, b, op) {
+//     if (op == "+") {
+//         return (a + b)
 
-    }
-    if (op == "-") {
-        return (a - b)
+//     }
+//     if (op == "-") {
+//         return (a - b)
 
-    }
-    if (op == "/") {
-        return (a / b)
+//     }
+//     if (op == "/") {
+//         return (a / b)
 
-    }
-    if (op == "*") {
-        return (a * b)
+//     }
+//     if (op == "*") {
+//         return (a * b)
 
-    }
-}
+//     }
+// }
 
 calculator()
