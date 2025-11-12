@@ -22,7 +22,7 @@
             document.writeln("Enter correct number")
 
         }
-        // else{
+        else{
             
         }
 
