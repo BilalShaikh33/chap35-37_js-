@@ -1,17 +1,17 @@
 
 
-function fact (){
-    let num = +prompt("Enter any number")
+// function fact (){
+//     let num = +prompt("Enter any number")
 
-    for (let i = num ; i > 0; i--) {
-        num = num * i
-    }
+//     for (let i = num ; i > 0; i--) {
+//         num = num * i
+//     }
 
-    document.writeln(num)
+//     document.writeln(num)
 
-}
+// }
 
-fact()
+// fact()
 
 
 // function calculator() {
