@@ -53,24 +53,24 @@
 // calculator()
 
 
-// function square(){
+function square(){
 
-//     num = +prompt("Enter your number")
-//     if (num!= null) {
-//         sq = num * num
+    num = +prompt("Enter your number")
+    if (num!= null) {
+        sq = num * num
         
-//     }
-//     else{
-//         console.log("Enter a valid number")
+    }
+    else{
+        console.log("Enter a valid number")
 
-//     }
-//     document.writeln(`"sqare of " ${num} " is   ${sq} `)
+    }
+    document.writeln(`"sqare of " ${num} " is   ${sq} `)
 
 
 
-// }
+}
 
-// square()
+square()
 
 
 
